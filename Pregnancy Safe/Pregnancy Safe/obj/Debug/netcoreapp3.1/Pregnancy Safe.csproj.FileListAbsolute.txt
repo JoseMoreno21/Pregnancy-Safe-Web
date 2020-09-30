@@ -1,0 +1,19 @@
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/appsettings.json
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/Pregnancy Safe.deps.json
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/Pregnancy Safe.runtimeconfig.json
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/Pregnancy Safe.runtimeconfig.dev.json
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/Pregnancy Safe.dll
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/bin/Debug/netcoreapp3.1/Pregnancy Safe.pdb
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.csprojAssemblyReference.cache
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.AssemblyInfoInputs.cache
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.AssemblyInfo.cs
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.csproj.CoreCompileInputs.cache
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.RazorTargetAssemblyInfo.cache
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/staticwebassets/Pregnancy Safe.StaticWebAssets.Manifest.cache
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/staticwebassets/Pregnancy Safe.StaticWebAssets.xml
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.dll
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.pdb
+/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/obj/Debug/netcoreapp3.1/Pregnancy Safe.genruntimeconfig.cache

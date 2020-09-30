@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TfEk/76IoicVEnujKAMQT4Xr0CXJl2VtiRnTwaVDdfztWMgQHpGBqLeUC5moU1GRkzZLEo1iWnkZKB69+62dlQ==",
+  "dgSpecHash": "vrwLR1sVzgkQXzrybCcfneWrR7bMVpL/j0ML8uWmr8qeiJCiTRZ4p4dtPm5Lcf/1p9+SlvsDhYxLdWp0xvV0Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eknowit\\Documents\\App Web\\Pregnancy-Safe-Web\\Pregnancy Safe\\Pregnancy Safe\\Pregnancy Safe.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\eknowit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "/Volumes/Data/projects/universidad/aplicaciones-web/Pregnancy-Safe-Web/Pregnancy Safe/Pregnancy Safe/Pregnancy Safe.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
