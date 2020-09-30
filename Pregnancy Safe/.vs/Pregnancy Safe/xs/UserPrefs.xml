@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B4A80E5B-EDF8-40F9-873C-7FE4A08638EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pregnancy Safe/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="Pregnancy Safe/appsettings.json" Line="1" Column="1" />
+      <File FileName="Pregnancy Safe/Startup.cs" Line="47" Column="1" />
+      <File FileName="Pregnancy Safe/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Pregnancy Safe/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pregnancy Safe" expanded="True">
+            <Node name="Pregnancy Safe" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pregnancy_220Safe PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
